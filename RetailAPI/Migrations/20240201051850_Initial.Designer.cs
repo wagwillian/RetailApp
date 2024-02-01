@@ -12,7 +12,7 @@ using RetailAPI.Data;
 namespace RetailAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240123233052_Initial")]
+    [Migration("20240201051850_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
